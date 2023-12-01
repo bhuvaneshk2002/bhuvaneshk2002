@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bhuvaneshk2002
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Data Structures
+- 🌱 I’m currently learning Advance Concept In Programming
 - 💞️ I’m looking to collaborate with developers
 - 📫 How to reach me @[bhuvaneshkamal42@gmail.com](mailto:bhuvaneshkamal42@gmail.com)
 
